@@ -1,16 +1,12 @@
-# facebook_responsive_ui
+# facebook_ui
 
-A new Flutter project.
+flutter project : Facebook_UI app
 
-## Getting Started
+## Screenshot :
+![Image of Yaktocat](https://github.com/AchrafSakout/facebook_ui/blob/main/Pictures/Screenshot_2021-10-17-21-22-00-643_com.example.facebook_responsive_ui.jpg)
+  
+## Futures:
+    - [x] Android/ios.
+    - [x] Null safety.
+    - [ ] Responsive on web view.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
